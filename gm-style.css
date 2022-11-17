@@ -1,0 +1,32 @@
+.flagbox{
+    margin: 4em;
+    border: 3px solid gray;
+    background-color: beige;
+    position: absolute;
+}
+
+.box{
+    align-items: center;
+    height: 300px;
+    width: 500px;
+    margin: 5em;
+    border: 3px black solid;
+    background-color: yellow;
+}
+
+.redColor{
+
+    height: 200px;
+    width: 500px;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 0, 0);
+}
+.blackColor{
+
+    height: 100px;
+    width: 500px;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}

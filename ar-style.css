@@ -1,0 +1,40 @@
+.flagbox{
+    margin: 4em;
+    border: 3px solid gray;
+    background-color: beige;
+    position: absolute;
+}
+
+.box{
+    align-items: center;
+    height: 300px;
+    width: 500px;
+    margin: 5em;
+    border: 3px black solid;
+    background-color: skyblue;
+}
+
+.whiteColor{
+
+    height: 200px;
+    width: 500px;
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+
+
+.skyblueColor{
+
+    height: 100px;
+    width: 500px;
+    margin: 0px;
+    padding: 0px;
+    background-color: skyblue;
+}
+
+.img{
+   
+   max-height: 0em;
+   max-width: .1em;
+}
