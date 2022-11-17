@@ -1,0 +1,24 @@
+.flagbox{
+    margin: 4em;
+    border: 3px solid gray;
+    background-color: beige;
+    position: absolute;
+}
+
+.box{
+    align-items: center;
+    height: 300px;
+    width: 500px;
+    margin: 5em;
+    padding: 5px;
+    border: 3px black solid;
+    background-color: rgb(7, 84, 7);
+}
+
+.circle{
+    margin: 3em 10em 3em 9em;
+    background-color: rgb(212, 9, 9);
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
